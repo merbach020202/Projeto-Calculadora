@@ -1,0 +1,15 @@
+C:\Users\44850641822\Desktop\SwitchCase\bin\Debug\net7.0\SwitchCase.exe
+C:\Users\44850641822\Desktop\SwitchCase\bin\Debug\net7.0\SwitchCase.deps.json
+C:\Users\44850641822\Desktop\SwitchCase\bin\Debug\net7.0\SwitchCase.runtimeconfig.json
+C:\Users\44850641822\Desktop\SwitchCase\bin\Debug\net7.0\SwitchCase.dll
+C:\Users\44850641822\Desktop\SwitchCase\bin\Debug\net7.0\SwitchCase.pdb
+C:\Users\44850641822\Desktop\SwitchCase\obj\Debug\net7.0\SwitchCase.csproj.AssemblyReference.cache
+C:\Users\44850641822\Desktop\SwitchCase\obj\Debug\net7.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44850641822\Desktop\SwitchCase\obj\Debug\net7.0\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\44850641822\Desktop\SwitchCase\obj\Debug\net7.0\SwitchCase.AssemblyInfo.cs
+C:\Users\44850641822\Desktop\SwitchCase\obj\Debug\net7.0\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\44850641822\Desktop\SwitchCase\obj\Debug\net7.0\SwitchCase.dll
+C:\Users\44850641822\Desktop\SwitchCase\obj\Debug\net7.0\refint\SwitchCase.dll
+C:\Users\44850641822\Desktop\SwitchCase\obj\Debug\net7.0\SwitchCase.pdb
+C:\Users\44850641822\Desktop\SwitchCase\obj\Debug\net7.0\SwitchCase.genruntimeconfig.cache
+C:\Users\44850641822\Desktop\SwitchCase\obj\Debug\net7.0\ref\SwitchCase.dll
